@@ -8,9 +8,11 @@ Let's get to it~
 
 <h6>Directions</h6>
 
+0. Download all folders within Photo-Pixelate project
+
 1. Place Main/Target Photo inside the 'input' folder
 
-2. Place all (should be more than one...) Replacement/Pixel Photos inside the 'replacement' folder
+2. Place All (should be more than one...) Replacement/Pixel Photos inside the 'replacement' folder
 
 3. Open Matlab source and only edit variables within the 'Input Parameters' comment header (second one down from Main.m)
 
