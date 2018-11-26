@@ -4,7 +4,7 @@ Hello! Welcome to the magical world of Photo Pixelate.
 Follow these simple directions, and you'll receive your 
 photo pixelated image in just a couple minutes. 
 
-~Let's get to it~
+Let's get to it~
 
 <h6>Directions</h6>
 
