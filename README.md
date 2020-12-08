@@ -1,4 +1,6 @@
-<h1> Photo Pixelate - MATLAB </h1>
+# Photo Pixelate - MATLAB
+
+#### This repository is a little out of date, please refer to the updated version on the Python branch
 
 Hello! Welcome to the magical world of Photo Pixelate. 
 Follow these simple directions, and you'll receive your 
@@ -6,7 +8,7 @@ photo pixelated image in just a couple minutes.
 
 Let's get to it~
 
-<h6>Directions</h6>
+### Directions
 
 0. Download all folders within Photo-Pixelate project
 
@@ -20,4 +22,4 @@ Let's get to it~
 
 5. Run program and wait for output to generate
 
-<h4>That's it!</h4>
+### That's it!
